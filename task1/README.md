@@ -1,11 +1,19 @@
 1st Task
+
 [1] Run the code to produce a Gaussian histogram with a curve
+
 [2] Modify the code to see how different inputs create a different distribution and fit
+
 [3] Run the code to produce a Gamma distribution and fit, normalize it, check it with shape (k) = 1?
+
 [4] Make your own function to generate Gaussian distribution and fit your distribution using curve_fit
+
 [5] Find the appropirate lower and upper limits for loaded data and make a histogram
+
 [6] Try to fit the distribution with a Gaussian, Limit the range of data plotted if need be
+
 Bonus
+
 [1] Change the figure size, labels and fontsizes
 
 
