@@ -36,6 +36,5 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.rv_continuous.f
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
 
 #loading data using pandas dataframe:
-https://pandas.pydata.org/docs/reference/api/pandas.read_csv.htmls
-
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html
 
