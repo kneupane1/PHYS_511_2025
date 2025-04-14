@@ -9,7 +9,7 @@ P(x,r∆t)= e^(-r∆t)*(r∆t)^x / x!  = e^(-μ) μ^x / x!
 
 We can find the rate, r, if we fit plot out μ values found from each histogram versus the time interval ∆t.
 
--   [1] [Download Sr90 root Data](http://boson.physics.sc.edu/~nick/root_data.html)
+-   [1] [Download Sr90 Data]
 -   [2] Plot data from all the files into histograms, label them.
 -   [3] Fit Poisson function to each of the histograms.
 -   [4] Use for loop to plot and fit all the data at once.
