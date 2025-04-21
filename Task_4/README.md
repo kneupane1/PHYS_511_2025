@@ -7,7 +7,7 @@ The csv file has the information from the scattered electron stored in 4 banks. 
 In this section, we will look at calculating W and Q^2 values from the scattered electrons.
 
 # TO DO:
-Download data from:
+Download data from: https://drive.google.com/file/d/1ZAc5gwCfHJEOnHkYH6l1O45NbeuIavNd/view?usp=sharing
 
  - [1] Practice how you can create 4-vector and use the methods in class LorentzVector using given 4-vectors (Fill in the blanks).
  - [2] Create a 4 vector for the Electron beam, e_mu.
